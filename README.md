@@ -1,11 +1,10 @@
 # build-dart-sass
 
-[![apm](https://img.shields.io/apm/l/build-dart-sass.svg?style=flat-square)](https://atom.io/packages/build-dart-sass)
-[![apm](https://img.shields.io/apm/v/build-dart-sass.svg?style=flat-square)](https://atom.io/packages/build-dart-sass)
-[![apm](https://img.shields.io/apm/dm/build-dart-sass.svg?style=flat-square)](https://atom.io/packages/build-dart-sass)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-dart-sass.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-dart-sass)
-[![David](https://img.shields.io/david/idleberg/atom-build-dart-sass.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-dart-sass)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-dart-sass.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-dart-sass?type=dev)
+[![apm](https://flat.badgen.net/apm/license/build-dart-sass)](https://atom.io/packages/build-dart-sass)
+[![apm](https://flat.badgen.net/apm/v/build-dart-sass)](https://atom.io/packages/build-dart-sass)
+[![apm](https://flat.badgen.net/apm/dl/build-dart-sass)](https://atom.io/packages/build-dart-sass)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-dart-sass)](https://circleci.com/gh/idleberg/atom-build-dart-sass)
+[![David](https://flat.badgen.net/david/dep/idleberg/atom-build-dart-sass)](https://david-dm.org/idleberg/atom-build-dart-sass)
 
 [Atom Build](https://atombuild.github.io/) provider for `dart-sass`, compiles SCSS into CSS. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
