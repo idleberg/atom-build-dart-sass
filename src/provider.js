@@ -41,7 +41,7 @@ export function provideBuilder() {
         '\\s*file://(?<file>.*) (?<line>\\d+):(?<column>\\d+)',
       ];
 
-      const pathToSass = getConfig('pathToSass');
+      const pathToSass = getConfig('pathToSass') || 'sass';
       const customArguments = getConfig('customArguments').trim().split(' ');
 
       return [
