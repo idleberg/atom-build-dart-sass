@@ -5,6 +5,7 @@ import { EventEmitter } from 'events';
 import { satisfyDependencies } from 'atom-satisfy-dependencies';
 import { spawnSync } from 'child_process';
 import { which } from './util';
+import meta from '../package.json';
 
 export { configSchema as config };
 
@@ -23,7 +24,7 @@ export function provideBuilder() {
     }
 
     isEligible() {
-      if (getConfig('.alwaysEligible') === true) {
+      if (getConfig('alwaysEligible') === true) {
         return true;
       }
 
