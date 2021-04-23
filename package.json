@@ -1,6 +1,6 @@
 {
   "name": "build-dart-sass",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Atom Build provider for dart-sass, compiles SCSS",
   "repository": "https://github.com/idleberg/atom-build-dart-sass",
   "license": "MIT",
