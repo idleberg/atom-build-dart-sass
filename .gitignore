@@ -2,17 +2,13 @@
 bower_components/
 node_modules/
 npm-debug.log*
-shrinkwrap.yaml
 vendor/
-yarn-error.log
 yarn.lock
 
-# Development Files
+# Development
 .eslintcache
-*.d.ts
 *.map
 
-# Project-specific
-lib/*.map
-lib/provider.js.LICENSE.txt
+# Project specific
+lib/*LICENSE.txt
 todo.md
