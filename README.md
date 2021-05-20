@@ -4,7 +4,7 @@
 [![apm](https://flat.badgen.net/apm/v/build-dart-sass)](https://atom.io/packages/build-dart-sass)
 [![apm](https://flat.badgen.net/apm/dl/build-dart-sass)](https://atom.io/packages/build-dart-sass)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-dart-sass)](https://circleci.com/gh/idleberg/atom-build-dart-sass)
-[![David](https://flat.badgen.net/david/dep/idleberg/atom-build-dart-sass)](https://david-dm.org/idleberg/atom-build-dart-sass)
+[![David](https://flat.badgen.net/david/dev/idleberg/atom-build-dart-sass)](https://david-dm.org/idleberg/atom-build-dart-sass?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `dart-sass`, compiles SCSS into CSS. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
